@@ -30,5 +30,4 @@ class Doc
     }
 }
 
-export const Common = Common;
-export const Doc = Doc;
+export { Common, Doc };
